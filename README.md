@@ -42,11 +42,14 @@ This project demonstrates the ability to build **visually appealing and conversi
 
 Screenshots are included in the repository to showcase different sections of the website, including:
 
-* Homepage / Hero Section
-* Product Pages
-* Shop Page
-* Blog Page
-* Add to Cart Flow
+![Hero](./screenshots/Hero%20Section.png)
+![Products](./screenshots/Products.png)
+![Product](./screenshots/Product%20info.png)
+![About](./screenshots/About%20us.png)
+![Shop](./screenshots/Shop.png)
+![Cart](./screenshots/Add%20to%20cart.png)
+![Blog](./screenshots/Blog%20Page.png)
+
 
 ---
 
@@ -54,9 +57,8 @@ Screenshots are included in the repository to showcase different sections of the
 
 A **1-minute video walkthrough** is included to demonstrate:
 
-* Website layout
-* User flow
-* Design consistency
+
+🔗 [Watch Demo on LinkedIn](https://www.linkedin.com/posts/ayesha-abid33_wordpress-elementor-webdevelopment-ugcPost-7453801167123542016-_iG7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFx926kBVlBwisiSg542eIFpRRKW2AFi1Io)
 
 ---
 
